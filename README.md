@@ -21,4 +21,4 @@ This is a very simple React application that replicates the popular Indian TV sh
 
 ### Deployment
 
-This website has been deployed here for preview : [Play and Win Here](https://a0ef69cf.utproj-react-vvsimple-kbc.pages.dev/)
+This website has been deployed here for preview : [Play and Win Here](https://3e19add8.utproj-react-vvs-kbc.pages.dev/)
